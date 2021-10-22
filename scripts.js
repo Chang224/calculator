@@ -1,4 +1,4 @@
-alert ("Welcome! Learn about Ghana and get your Akan name.")
+alert ("Welcome!! Learn about Ghana and get your Akan name.")
 
 let day = document.getElementbyId("year").value
 let gender = document.getElementById("gender").value
